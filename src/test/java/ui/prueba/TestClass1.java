@@ -2,7 +2,7 @@ package ui.prueba;
 
 import Pagesp.LoginPage;
 import Pagesp.ProjectPage;
-import conf.BaseTest;
+import ui.conf.BaseTest;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 

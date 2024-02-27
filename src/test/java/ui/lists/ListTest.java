@@ -1,7 +1,7 @@
 package ui.lists;
 
 import Pagesp.*;
-import conf.BaseTest;
+import ui.conf.BaseTest;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 

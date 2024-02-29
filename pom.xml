@@ -111,8 +111,8 @@
                         <configuration>
                             <suiteXmlFiles>
                                 <suiteXmlFile>suites/suite-ui-regression.xml</suiteXmlFile>
-                                <testFailureIgnore>true</testFailureIgnore>
                             </suiteXmlFiles>
+                            <testFailureIgnore>true</testFailureIgnore>
                         </configuration>
                     </execution>
                 </executions>
